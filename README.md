@@ -13,7 +13,7 @@ Computer Spec Requirements:
   3. Ryzen 5 or higher
 
 Installation:
-1. Install Wabbajack (duh)
+1. Install Wabbajack (duh) to a folder outside your "Program Files" folder
 2. Create a folder outside your "Program Files" folder, name it "Dovahkiin" (it doesn't matter as long as you know which folder it is :))
 3. Make sure your Steam Skyrim installation is outside the "Program Files" folder, preferably in your "Steam\steamapps\common\Skyrim Special Edition" folder
 4. Make sure you have the latest x64 and x86 versions of Microsoft Visual C++ Redistributable: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
