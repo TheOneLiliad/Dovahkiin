@@ -37,4 +37,6 @@ Q&A:
 
 "When will you update this?" Whenever I have the time to.
 
+"How can I support you?" You can donate to me on Patreon :): https://www.patreon.com/c/TheOneLiliad/membership
+
 Please refer to the "Issues" tab to report bugs. Thank you :) https://github.com/TheOneLiliad/Dovahkiin/issues
