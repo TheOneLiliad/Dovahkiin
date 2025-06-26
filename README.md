@@ -35,4 +35,4 @@ Q&A:
 
 "When will you update this?" Whenever I have the time to.
 
-Please refer to the "Bugs" section to report bugs. Thank you :)
+Please refer to the "Issues" tab to report bugs. Thank you :) https://github.com/TheOneLiliad/Dovahkiin/issues
