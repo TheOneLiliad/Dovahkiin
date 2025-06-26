@@ -3,6 +3,10 @@ Hello and welcome to Dovahkiin! This modlist is currently a work in progress so 
 
 ![images](https://github.com/user-attachments/assets/1e52ae4a-1289-4cba-9f23-3f5a0be210d1)
 
+Description:
+
+A modlist to overhaul and "freshen up" Skyrim while still keeping it true to itself. With the full Enairim suite and Legacy of the Dragonborn to boot, along with full Creation Club integration, done in a way where Bethesda's Creations don't break immersion, but enhance it. Embrace your destiny, Dragonborn!
+
 Computer Spec Requirements:
   1. At least 8+ GB RAM
   2. GeForce RTX 2090 or higher
