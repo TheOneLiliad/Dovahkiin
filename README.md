@@ -16,7 +16,7 @@ Installation:
 1. Create a folder outside your "Program Files" folder, name it "Dovahkiin" (it doesn't matter as long as you know which folder it is :))
 2. Make sure your Steam Skyrim installation is outside the "Program Files" folder, preferably in your "Steam\steamapps\common\Skyrim Special Edition" folder
 3. Make sure you have the latest x64 and x86 versions of Microsoft Visual C++ Redistributable: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-4. Make sure your PC is set to "Never" in your "device sleep" settings, just so that your PC doesn't go for a snooze while stuff's downloading, you can change this back after :)
+4. Make sure your PC is set to "Never" in your "device sleep" settings while downloading, just so that your PC doesn't go for a snooze while stuff's downloading, you can change this back after :)
 5. Open Wabbajack
 6. Select your download folder
 7. Install! It's that easy (hopefully!) :)
