@@ -19,8 +19,9 @@ Installation:
 4. Make sure you have the latest x64 and x86 versions of Microsoft Visual C++ Redistributable: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 5. Make sure your PC is set to "Never" in your "device sleep" settings while downloading, just so that your PC doesn't go for a snooze while stuff's downloading, you can change this back after :)
 6. Open Wabbajack
-7. Select your download folder
-8. Install! It's that easy (hopefully!) :)
+7. Select "Dovahkiin" from "Skyrim Special Edition"
+8. Select your download folder
+9. Install! It's that easy (hopefully!) :)
 
 Q&A:
 
