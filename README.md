@@ -31,8 +31,6 @@ Q&A:
 
 "Do I have to have all the Creation Club Content installed?" Sadly, yes, it won't work without it.
 
-"It's a bit messy currently" Well like I said, it's a work in progress. You don't develop skills overnight :)
-
 "Will you add X mod?" If you want me to, please refer to the "Issues" tab and label it, "Suggestion: " otherwise I will take it as a bug report.
 
 "When will you update this?" Whenever I have the time to.
